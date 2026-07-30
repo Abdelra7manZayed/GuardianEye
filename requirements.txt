@@ -1,0 +1,11 @@
+# CPU-only PyTorch build (no CUDA). This index is checked in addition to
+# PyPI, so other packages below still resolve normally.
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+torch
+torchvision
+
+streamlit
+opencv-python
+ultralytics
+numpy
