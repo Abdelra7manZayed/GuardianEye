@@ -68,7 +68,7 @@ across frames so the same person isn't double-counted.
 
 
 <!-- Replace the line below with your own video link or GIF once you have one. -->
-[Watch the demo video](https://github.com/user-attachments/assets/b46d86f7-a011-4c6b-88e2-2c158fea0983)
+[Watch the demo video](https://github.com/user-attachments/assets/ee1c1b39-2e50-4461-b4f5-554e4edc8fc0)
 
 
 ## Running the app
